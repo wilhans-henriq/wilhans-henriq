@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Wilhans!
 
-<!--
-**wilhans-henriq/wilhans-henriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia em Ciência de Dados (EAD)  
+💡 Atualmente aprendendo Python, pandas e análise de dados  
+📊 Focado em desenvolver projetos práticos com Jupyter Notebook  
+🚀 Construindo meu portfólio de Ciência de Dados passo a passo
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Meus objetivos com esse perfil:
+- Compartilhar meus projetos de estudo
+- Aprender com a prática e com a comunidade
+- Registrar meu desenvolvimento na área de dados
+
+---
+
+### 🛠️ Ferramentas e Tecnologias:
+- Python, pandas, matplotlib, scikit-learn  
+- Jupyter Notebook  
+- Google Colab  
+- Git e GitHub  
+
+---
+
+### 📌 Projetos em andamento:
+- Lógica com Python 🐍  
+- Análise de dados com Titanic 🚢  
+- Visualizações com dados da COVID-19 🦠  
+- Modelos de Machine Learning simples 📈  
+- Análises de dados pessoais ⚙️
+
+---
+
+📫 Quer trocar ideia sobre ciência de dados, aprendizado ou projetos?  
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/wilhans-henrique-a98966194).
